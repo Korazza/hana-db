@@ -1,0 +1,13 @@
+{
+  "role": {
+    "name": "publicaccessrole",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "EXECUTE",
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
